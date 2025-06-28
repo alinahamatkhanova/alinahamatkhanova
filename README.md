@@ -25,4 +25,4 @@ now i'm actively developing my social media platforms, through which people reac
 
 ## languages
 
-russian (native), ingush (native), chechen (c1), english (b1), spanish (a1), arab(a2)
+russian (native), ingush (native), chechen (c1), english (b1), spanish (a1), arab (a2)
