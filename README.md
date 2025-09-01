@@ -4,7 +4,7 @@
 
 i entered itmo university on a state-funded place at the age of 15, after completing 10th and 11th grades in one year through external studies.
 
-i'm currently actively developing my social media platforms, through which people contact me to create custom chatbots + i also make games :)
+i'm currently actively developing my social media platforms, through which people contact me to create custom chatbots + i also make games:)
 
 
 ## my education  
